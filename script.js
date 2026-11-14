@@ -1,1 +1,2 @@
-h
+/* Initialize Lucide Icons */
+lucide.createIcons();
